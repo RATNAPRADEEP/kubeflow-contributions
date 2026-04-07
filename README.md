@@ -7,7 +7,7 @@ Contributions to Kubeflow Pipelines (React, TypeScript, React Query)
 
 ## 🔹 Fix: Prevent Spinner on Background Refetch
 
-- - 🔗 Initial PR: https://github.com/kubeflow/pipelines/pull/13199
+-  🔗 Initial PR: https://github.com/kubeflow/pipelines/pull/13199
 - 🔗 Final merged PR: https://github.com/kubeflow/pipelines/pull/13212
 - ✅ Status: Merged (via follow-up PR by maintainer)
 - 🛠️ Area: Frontend (React Query state management)
